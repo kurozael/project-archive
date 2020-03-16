@@ -1,0 +1,4 @@
+-- Stats --
+
+Everything on the server will be recorded, shutdowns, kills, sentances spoken and can be viewed
+with the stats command

@@ -1,0 +1,7 @@
+-- AFK --
+
+Give users a custom user title
+
+Commands:
+
+afk (Toggle being AFK)

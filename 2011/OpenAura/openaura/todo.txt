@@ -1,0 +1,16 @@
+[LOOC] Douglas 'DJ' Johnson: btw lol, kuro totally told me about MSF
+Pure: =\
+[C16-Lead] kurozael: naw
+Pure: why
+[C16-Lead] kurozael: he came in when i was on an MSF character
+[C16-Lead] kurozael: testing
+Pure: Well, earthtech's dumbass already revealed it
+Pure: pretty much
+Pure: how to restrict /observer to Admins and SA's only
+Pure: and Admin ESP
+[C16-Lead] kurozael: its hardcoded man
+Pure: dawwwww
+[C16-Lead] kurozael: but thats a sick idea for a feature. like some kind of admin panel where you can choose what each group can do
+[C16-Lead] kurozael: ill add it to the todo list
+Pure: ohh nice
+Pure: thankies

@@ -1,0 +1,3 @@
+-- Spawnpoint --
+
+Set a spawnpoint for somebody or yourself

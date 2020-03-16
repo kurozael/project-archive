@@ -1,0 +1,1 @@
+Goto Documentation/Modding/Purchases.txt for more information on purchases and how to create them

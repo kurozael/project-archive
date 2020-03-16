@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"Phase Four"
+	"info"			"The fourth installment of the Experiment series."
+	"version"		"4.0"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

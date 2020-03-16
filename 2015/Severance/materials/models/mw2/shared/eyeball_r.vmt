@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture"		"models/MW2/SHARED/eyeball_r"
+	"$iris"			"models/MW2/SHARED/pupil_r"
+	"$halflambert"		"1"
+}

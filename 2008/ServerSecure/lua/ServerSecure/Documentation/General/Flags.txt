@@ -1,0 +1,14 @@
+SS.Flags.PlayerHas(Player, <Flag>) returns true if the player has the flag
+SS.Flags.PlayerGive(Player, <Flag>) returns false if player already has it
+
+-- List of default flags --
+
+"administrator" (Admins)
+"moderator" (Next step up from guest)
+"regular" (Next step up from basic)
+"basic" (Everyone has)
+"misc" (Misc)
+"server" (Server Administrators etc)
+"immune" (Can't have certain actions done him/her)
+"fun" (Used for fun stuff)
+"sweps" (Can spawn SWEPS)

@@ -1,0 +1,7 @@
+-- Hide --
+
+Allow server administrators to hide
+
+Commands:
+
+hide <1|0> (Hide/Unhide)

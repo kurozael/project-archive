@@ -1,0 +1,8 @@
+-- Title --
+
+Give users a custom user title
+
+Commands:
+
+title <Text> (Set your own title)
+playertitle <Player> <Text> (Set somebody elses title)

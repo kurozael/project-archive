@@ -1,0 +1,9 @@
+CVARS allow you to create a new variable in the players save file
+
+// Functions:
+
+CVAR.New(Player, Name, Friendly, Value) -- Create a new CVAR, Value can be a table, a string, a boolean or a number
+CVAR.Request(Player, Name) -- Request a CVAR, returns the value
+CVAR.Update(Player, Name, Value) -- Update an existing CVAR with a new value
+CVAR.Save(Player) -- Save all players CVARS to his file
+CVAR.Format(Key) -- Return the friendly name of a CVAR Index (For displaying things)

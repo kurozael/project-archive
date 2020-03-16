@@ -1,0 +1,9 @@
+"cwseverance"
+{
+	"title"			"Severance"
+	"author"		"Cloud Sixteen"
+	"description"	"A roleplaying schema by Cloud Sixteen based on the events of a zombie apocalypse."
+	"version"		"1.1.4"
+	"menusystem"	"1"
+	"workshopid"	""
+}

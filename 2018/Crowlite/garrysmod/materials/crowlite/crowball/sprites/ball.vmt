@@ -1,0 +1,6 @@
+"UnlitGeneric" 
+{
+	"$basetexture" "crowlite/crowball/sprites/ball.vtf"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+}

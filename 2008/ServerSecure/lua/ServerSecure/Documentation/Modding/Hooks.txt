@@ -1,0 +1,49 @@
+// Player Hooks 
+
+PlayerGivenPurchase (Player, Name of purchased item) [When a player purchases an upgrade]
+PlayerGivenWeapons (Player, Table of weapons given) [When a player is given weapons]
+PlayerChooseTeam (Player) [When a players team is chosen]
+PlayerGivenPoints (Player, Amount) [When a player gains a point]
+PlayerTakenPoints (Player, Amount) [When a player has points deducted]
+PlayerChangedGroup (Player, Name of new level) [When a player gets a new level like Admin or VIP]
+PlayerDisconnect (Player) [When a player disconnects]
+PlayerSpawn (Player) [When a player spawns]
+PlayerChooseModel (Player) [When a players model is chosen]
+PlayerInitialSpawn (Player) [When a player first spawns]
+PlayerUpdateGUI (Player) [When a players GUI variables are updated]
+PlayerDataLoaded (Player) [When a players settings have been loaded]
+PlayerDataSaved (Player) [When a player saves his settings]
+PlayerDeath (Player, Killer) [When a player dies]
+PlayerTypedCommand (Player, Command, Args) [When a player types a chat or console command]
+PlayerSetVariables (Player) [When a players CVARS are first set practically on initial spawn]
+PlayerTypeText (Player, Text) [Called before chat command check]
+PlayerTypedText (Player, Text) [When a player chats]
+PlayerGiveFreeFlags (Player) [When player gets all his free flags given to him]
+PlayerGiveFreePurchases (Player) [When player gets all his free purchases given to him]
+PlayerPropSpawned (Player, Entity) [When a player spawns a prop]
+PlayerConnect (Name, Address, Steam) [When a player connects to the server]
+PlayerNameChanged (Player, Previous, New) [When a player changed his name]
+PlayerGivenFlag (Player, Flag) [When player is given a flag]
+PlayerTakenFlag (Player, Flag) [When player has a flag taken]
+PlayerKeyPress (Player, Key) [When a player presses a key]
+PlayerBanned (Player, Time, Reason) [When a player is banned]
+
+// Server Hooks 
+
+ServerMessage (Text) [Called whenever a message is sent to everyone on the server]
+ServerSecond (None) [Called every second]
+ServerMinute (None) [Called every minute]
+ServerShutdown (None) [When server shuts down/changes map]
+ServerLoad (None) [When the server / script loads]
+ServerHook (Name, Arguments) [When a hook is called]
+ServerThink (None) [Called every frame]
+ServerVoteFinished (ID, Winner, Votes) [When a vote is finished]
+
+// Example 
+
+function Function(Player, Purchase)
+end
+
+SS.Hooks.Add("Name", "PlayerGivenPurchase", Function)
+
+SS.Hooks.Remove("Name")

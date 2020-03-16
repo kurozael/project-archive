@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\clothes/fisherman_hat"
+	//"$bumpmap" "models\bloocobalt\clothes/fisherman_hat_normal"
+	"$surfaceprop" "flesh"
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"	
+}

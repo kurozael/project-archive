@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"Aperture"
+	"info"			"A post-apocalyptic testing environment."
+	"version"		"1.0"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

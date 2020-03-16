@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"			"titan"
+	"info"			"A faster and more reliable networking system."
+	"version"		"1.0"
+	"author_name"	"kuropixel"
+	"author_email"	"kuropixel@gmail.com"
+	"author_url"	"http://kuropixel.com"
+}

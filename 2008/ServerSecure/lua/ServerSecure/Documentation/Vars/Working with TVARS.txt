@@ -1,0 +1,7 @@
+TVARS are basically CVARS that don't save, TVARS are "Temporary Variables"
+
+// Functions:
+
+TVAR.New(Player, Name, Value) -- Create a new TVAR, Value can be a table, a string or a number
+TVAR.Request(Player, Name) -- Request a TVAR, returns the value
+TVAR.Update(Player, Name, Value) -- Update an existing TVAR with a new value

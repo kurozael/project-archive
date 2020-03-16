@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cloud2D", "Cloud2D\Cloud2D.vcxproj", "{0A9FC126-CBD2-4EDE-94A7-C8D75FB368F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LuaBind", "LuaBind\LuaBind.vcxproj", "{2BD552DB-A1AF-4ED2-B089-7AA31C7A6CFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Box2D", "Box2D\Box2D.vcxproj", "{7F2DD79E-66B0-47E4-A925-99E3B1AC61EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9FC126-CBD2-4EDE-94A7-C8D75FB368F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A9FC126-CBD2-4EDE-94A7-C8D75FB368F1}.Debug|Win32.Build.0 = Debug|Win32
+		{0A9FC126-CBD2-4EDE-94A7-C8D75FB368F1}.Release|Win32.ActiveCfg = Release|Win32
+		{0A9FC126-CBD2-4EDE-94A7-C8D75FB368F1}.Release|Win32.Build.0 = Release|Win32
+		{2BD552DB-A1AF-4ED2-B089-7AA31C7A6CFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BD552DB-A1AF-4ED2-B089-7AA31C7A6CFD}.Debug|Win32.Build.0 = Debug|Win32
+		{2BD552DB-A1AF-4ED2-B089-7AA31C7A6CFD}.Release|Win32.ActiveCfg = Release|Win32
+		{2BD552DB-A1AF-4ED2-B089-7AA31C7A6CFD}.Release|Win32.Build.0 = Release|Win32
+		{7F2DD79E-66B0-47E4-A925-99E3B1AC61EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F2DD79E-66B0-47E4-A925-99E3B1AC61EF}.Debug|Win32.Build.0 = Debug|Win32
+		{7F2DD79E-66B0-47E4-A925-99E3B1AC61EF}.Release|Win32.ActiveCfg = Release|Win32
+		{7F2DD79E-66B0-47E4-A925-99E3B1AC61EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

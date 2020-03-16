@@ -1,0 +1,1 @@
+PlayerGivenRating (Args = Player, Person, Rating) [When a player rates another person]

@@ -1,0 +1,7 @@
+[Upgrading a copy of CloudScript]
+
+o Delete garrysmod/gamemodes/CloudScript/ and garrysmod/gamemodes/<schema> from your server.
+o Extract the files in this archive to just outside of your garrysmod/ directory.
+o Enter your serial key into garrysmod/gamemodes/<schema>/serial.cfg and save the file.
+o Enter your Steam ID into garrysmod/gamemodes/CloudScript/owner.cfg to become a super admin.
+o Edit garrysmod/gamemodes/CloudScript/mysql.cfg with your own MySQL database information and save the file.

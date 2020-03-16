@@ -1,0 +1,8 @@
+{
+	"name": "CrowRounds",
+	"author": "NightAngel",
+	"namespace": "CrowRounds",
+	"description": "This package adds an optional round system to your gamemode.",
+	"website": "http://cloudsixteen.com/",
+	"version": "1.0.0"
+}

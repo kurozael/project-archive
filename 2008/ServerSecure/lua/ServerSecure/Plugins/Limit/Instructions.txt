@@ -1,0 +1,3 @@
+-- Limit --
+
+Limit props by flags

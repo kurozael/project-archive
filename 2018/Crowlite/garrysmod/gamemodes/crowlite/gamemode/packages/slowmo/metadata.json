@@ -1,0 +1,8 @@
+{
+	"name": "Slow Motion",
+	"author": "NightAngel",
+	"namespace": "SlowMo",
+	"description": "This is a small package that provides the means to slow down the timescale of the server for a certain amount of time.",
+	"website": "",
+	"version": "1.0.0"
+}

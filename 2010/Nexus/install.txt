@@ -1,0 +1,24 @@
+[Installing a copy of nexus]
+(If you already have nexus installed, follow upgrade.txt)
+
+o Extract the files in this archive to just outside of your garrysmod/ directory and overwrite any existing files.
+o When you put both nexus and <gamemode> in your gamemodes folder, you need to do sv_defaultgamemode <gamemode>.
+o Then, you need to goto garrysmod/data/nexus/ and edit the mysql.cfg with your own MySQL database information.
+o The final stage of the MySQL setup is to use the nexus.sql file to import the tables to your database.
+o If you don't wish to use the titan networking system (although it is highly recommended to use titan) then
+	remove the titan/ directory from garrysmod/addons/.
+o You should be all set from there. Load up your server and enjoy. If you have anymore questions
+	I have set your usergroup on the forums to 'Customer' and you can post in the help
+	and support section of the Studio Sixteen products forum (this only applies to those who
+	have purchases a schema).
+o Please make sure you read the licence.txt file for information reguarding legal issues with
+	the script. It will inform you that leaking, or editing the script beyond my wishes
+	may result in legal action. This is not an empty threat.
+	
+A good idea is, if you can, to implement a user group called 'operator' in to the administration system you're using.
+All top administration systems have the ability to add custom user groups for players, Exsto being one of my favourite.
+The operator user group is used for some low-level restricted commands, like kicking a player. Although it isn't necessary
+to have this user group exist, it may be handy for administration purposes so you are able to give somebody a small
+position in the staff.
+
+*** Thank you for purchasing or using a product from Studio Sixteen. ***

@@ -1,0 +1,5 @@
+-- Translate --
+
+Note: Used select command
+
+translate <Freeze 1|0> (Enter or exit translate mode then use keys to move)

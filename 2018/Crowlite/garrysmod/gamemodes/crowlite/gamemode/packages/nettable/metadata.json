@@ -1,0 +1,9 @@
+{
+	"name": "NetTable",
+	"author": "wyozi",
+	"description": "Efficient Net Table for Garry's Mod",
+	"website": "https://github.com/wyozi/gmod-nettable",
+	"version": "1.0.0",
+	"priority": 0,
+	"unloadable": false
+}

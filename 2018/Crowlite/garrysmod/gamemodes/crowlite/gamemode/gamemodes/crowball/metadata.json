@@ -1,0 +1,14 @@
+{
+	"name": "CrowBall",
+	"author": "Cloud Sixteen",
+	"namespace": "CrowBall",
+	"description": "CrowBall is a physics based (obviously) dodgeball game powered by crowlite.",
+	"dependencies":
+	{
+		"rounds": "1.0.0",
+		"slowmo": "1.0.0"
+	},
+	"website": "http://cloudsixteen.com/",
+	"version": "1.1.1",
+	"prefixes": "dball_"
+}

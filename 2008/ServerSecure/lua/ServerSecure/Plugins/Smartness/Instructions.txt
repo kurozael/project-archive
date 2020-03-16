@@ -1,0 +1,4 @@
+-- Smartness --
+
+Similiar to the Facepunch smartness system, you lose smartness for poor spelling and
+will be banned for a certain amount of time if your smartness decreases below a specified amount

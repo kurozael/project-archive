@@ -1,0 +1,8 @@
+-- Lottery --
+
+Lottery that occurs every certain amount of seconds
+see Config.lua for examples of how to configure it
+
+Commands:
+
+lottery 1, 2, 3

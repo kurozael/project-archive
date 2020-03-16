@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"    	"models/Humans/Male/Experim/CitizenSoldier_Sheet.vtf"
+	"$translucent" 1
+	"$surfaceprop" "flesh"
+}
+
+
+

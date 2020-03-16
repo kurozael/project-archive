@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"City of the Dead"
+	"info"			"The post-apocalyptic survivor roleplaying horror."
+	"version"		"1.0"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

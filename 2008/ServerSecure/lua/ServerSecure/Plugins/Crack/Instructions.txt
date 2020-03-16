@@ -1,0 +1,3 @@
+-- Crack --
+
+Type crack as a command whilst aiming at one of Robbis_1's Keypads to get the code for it

@@ -1,0 +1,7 @@
+-- VACBan --
+
+Fake VAC ban somebody
+
+Commands:
+
+vacban <Player> (Fake VAC ban them)

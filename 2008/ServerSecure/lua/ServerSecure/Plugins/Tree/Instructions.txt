@@ -1,0 +1,7 @@
+-- Tree --
+
+Plant a tree that over time drops points (Could be called something different in server config)
+
+Commands:
+
+tree <Amount> <Time> (Spawn a tree)

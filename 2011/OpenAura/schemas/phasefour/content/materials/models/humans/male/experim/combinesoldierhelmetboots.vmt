@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models/Humans/Male/Experim/combinesoldierHelmetBoots"
+	"$surfaceprop" "flesh"
+	"$model" 1
+}
+
+
+

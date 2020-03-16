@@ -1,0 +1,5 @@
+-- RestrictStools --
+
+Goto Config.lua and you can add stools you wish to be restricted, people with flags set can use the stool
+
+Some examples are already included!

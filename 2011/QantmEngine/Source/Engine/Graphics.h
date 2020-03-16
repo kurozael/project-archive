@@ -1,0 +1,1 @@
+#ifndef GRAPHICS_H#define GRAPHICS_H#include <Engine/Graphics/StaticMesh.h>#include <Engine/Graphics/Texture.h>#include <Engine/Graphics/OpenGL.h>#include <Engine/Graphics/Material.h>#include <Engine/Graphics/Light.h>#include <Engine/Graphics/Color.h>#endif

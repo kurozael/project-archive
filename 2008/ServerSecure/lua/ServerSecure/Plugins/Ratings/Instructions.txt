@@ -1,0 +1,7 @@
+-- Ratings --
+
+Rate users! You can add new ratings in the Config.lua
+
+Commands:
+
+rate <Player> Optional: <Rating> (If you don't enter a rating a menu will appear)

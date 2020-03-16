@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"New Vegas"
+	"info"			"A roleplaying game based on the Fallout universe."
+	"version"		"1.0"
+	"author_url"	"http://kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"Test Bed"
+	"info"			"A do whatever the fuck you want roleplaying server."
+	"version"		"1.0"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

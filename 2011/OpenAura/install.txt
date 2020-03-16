@@ -1,0 +1,10 @@
+[Installing a copy of CloudScript]
+(If you already have OpenAura installed, follow upgrade.txt)
+
+o Extract the files in this archive to just outside of your garrysmod/ directory and overwrite any existing files.
+o Edit garrysmod/gamemodes/CloudScript/mysql.cfg with your own MySQL database information and save the file.
+o Enter your serial key into garrysmod/gamemodes/<schema>/serial.cfg and save the file.
+o Enter your Steam ID into garrysmod/gamemodes/CloudScript/owner.cfg to become a super admin.
+o The final stage of the MySQL setup is to use the CloudScript.sql file to import the tables to your database.
+o Set sv_defaultgamemode to whatever the folder name of the <schema> is.
+o You should be all set from there. Load up your server and enjoy.

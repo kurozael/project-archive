@@ -1,0 +1,3 @@
+-- Log --
+
+Log server actions and see the logs in Data/SS/Logs/

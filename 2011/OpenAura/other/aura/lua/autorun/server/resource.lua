@@ -1,0 +1,10 @@
+resource.AddFile("materials/openaura/scope.vmt");
+resource.AddFile("materials/openaura/scope-refract.vmt");
+resource.AddFile("materials/openaura/scope.vtf");
+resource.AddFile("materials/openaura/scope-refract.vtf");
+resource.AddFile("materials/models/items/aurabox.vmt");
+resource.AddFile("materials/models/items/aurabox.vtf");
+resource.AddFile("materials/models/items/aurarounds.vtf");
+resource.AddFile("materials/models/items/aurarounds.vmt");
+resource.AddFile("models/items/aurarounds.mdl");
+resource.AddFile("models/items/aurabox.mdl");

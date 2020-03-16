@@ -1,0 +1,8 @@
+{
+	"name": "Sandbox",
+	"author": "TEAM GARRY",
+	"namespace": "Sandbox",
+	"description": "This is a gamemode that derives from GMod's sandbox as a base with no additional changes for a base gamemode on crowlite.",
+	"website": "",
+	"version": "1.0.0"
+}

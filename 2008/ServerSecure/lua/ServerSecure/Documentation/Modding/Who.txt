@@ -1,0 +1,18 @@
+// Using Who 
+
+When a player types the who command they see a list of all Who modules to check on what people are doing
+
+To create a function you do like below, returning true means that the player is doing this activity and
+will show on the menu
+
+// Example function
+
+function SS.Who.Driving(Player)
+	if (Player:InVehicle()) then
+		return true
+	end
+	
+	return false
+end
+
+SS.Who.Module("Driving", SS.Who.Driving)

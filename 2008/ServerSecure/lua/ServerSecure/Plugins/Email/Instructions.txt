@@ -1,0 +1,10 @@
+-- Email --
+
+ServerSecure's very own email system!
+
+Commands:
+
+account <Name> (Create an account)
+email (View help on email)
+send <User>, <Title> (Send email to somebody else)
+read (Read email)

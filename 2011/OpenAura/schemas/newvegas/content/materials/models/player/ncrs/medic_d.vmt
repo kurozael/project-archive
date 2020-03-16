@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/player/ncrs/medic_d"
+	"$surfaceprop" "flesh"
+
+}

@@ -1,0 +1,7 @@
+-- Joke --
+
+Users can view a random joke
+
+Commands:
+
+joke (View random joke)

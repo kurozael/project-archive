@@ -1,0 +1,5 @@
+"Gamemode"
+{
+	"base"		"Clockwork"
+	"title"		"New Vegas 2"
+}

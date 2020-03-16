@@ -1,0 +1,19 @@
+// Menus
+
+local Panel = SS.Panel:New(Player, "Title")
+
+// Adding words (Last 3 arguments are optional)
+
+Panel:Words("These are words", R, G, B)
+
+// Adding a button (Last 4 arguments are optional)
+
+Panel:Button("Text", "Command", R, G, B, Bool) // The boolean determines whether menu closes after (default true)
+
+// Adding a button that calls a server-side function when a player presses it
+
+Panel:Button("Text", {Function, ...}, R, G, B, Bool)
+
+// Sending the menu
+
+Panel:Send()

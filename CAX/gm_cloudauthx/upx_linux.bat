@@ -1,0 +1,1 @@
+upx --best -o gmsv_cloudauthx_linux.dll libgmsv_cloudauthx.so

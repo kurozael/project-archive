@@ -1,0 +1,7 @@
+-- PowerPlant --
+
+Make a Power Plant, if a box isn't put into it every 10 seconds a nuke goes off!
+
+Commands:
+
+powerplant (Spawn a Power Plant)

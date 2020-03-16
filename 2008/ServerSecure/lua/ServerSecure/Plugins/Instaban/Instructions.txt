@@ -1,0 +1,4 @@
+-- Instaban --
+
+Ban people automatically for saying specific words
+see Config.lua to configure it

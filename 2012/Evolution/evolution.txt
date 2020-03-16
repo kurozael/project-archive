@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"			"Clockwork"
+	"title"			"Evolution"
+	"author"		"kurozael"
+	"description" 	"The be-all and end-all of anarchic roleplaying gamemodes."
+}

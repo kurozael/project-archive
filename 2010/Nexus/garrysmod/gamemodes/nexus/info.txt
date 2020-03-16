@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"nexus"
+	"info"			"A roleplaying gamemode framework."
+	"version"		"3.0d"
+	"author_url"	"http://kuropixel.com"
+	"author_name"	"kuropixel"
+	"author_email"	"kuropixel@gmail.com"
+}

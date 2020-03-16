@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"Cider Two"
+	"info"			"A light-roleplaying gamemode based on real-life."
+	"version"		"2.1"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

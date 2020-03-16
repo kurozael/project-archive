@@ -1,0 +1,3 @@
+-- PropSecure --
+
+Type propsecure as a command to see the PropSecure menu

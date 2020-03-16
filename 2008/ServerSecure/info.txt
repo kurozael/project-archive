@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"			"ServerSecure"
+	"version"		"3.3"
+	"author_name"	"Conna"
+	"author_email"	"connacook@gmail.com"
+	"author_url"	"http://conna.gmservers.net/"
+	"info"			"ServerSecure"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "3D2D-ImgUI",
+	"author": "wyozi",
+	"description": "Immediate mode 3D2D UI for Garry's Mod",
+	"website": "https://github.com/wyozi/3d2d-imgui",
+	"version": "1.0.0",
+	"priority": 0,
+	"unloadable": false
+}

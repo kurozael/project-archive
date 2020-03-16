@@ -1,0 +1,35 @@
+// Purchases are done really easily -
+
+// When doing price remember about scaling (Price is always what you set mutliplied by
+points given every time the timer goes down) so don't set price too high 
+
+local Purchase = SS.Purchase:New("<ID>", "<Friendly Name>")
+
+function Purchase.Spawn(Player)
+	if not SS.Purchase.Has(Player, "Poo") then
+		Player:PrintMessage(3, "Ha, you don't have the Poo upgrade!")
+	end
+end
+
+// You can add a condition of whether or not the purchase will show up on the menu, if none is set it will use the
+default 
+
+function Purchase.Condition(Player, Item)
+	if (Player:Name() == Item)  Random
+		return false
+	end
+	
+	return true
+end
+
+// You can also add a function that is called when a players purchase is taken away 
+
+function Purchase.Remove(Player, Item)
+	if (Item == "Test") then
+		Player:Kill()
+	end
+end
+
+SS.Hooks.Add("Purchase.Spawn", "PlayerSpawn", Purchase.Spawn)
+
+Purchase:Finish(<Price>, {"<Flag if a player has this he gets it free!>", "<Another one>"}, "<Category>")

@@ -1,0 +1,4 @@
+-- Filter --
+
+Makes it so you can filter words in chat and replace with other words
+see Config.lua for examples of how to do it

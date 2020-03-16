@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/fallout_3/ghoul/slow_body"
+ 	"$nocull" 1
+}

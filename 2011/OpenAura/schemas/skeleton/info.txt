@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"Skeleton"
+	"info"			"Just a test schema.."
+	"version"		"1.0"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

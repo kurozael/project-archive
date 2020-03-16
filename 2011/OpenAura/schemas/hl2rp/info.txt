@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"HL2 RP"
+	"info"			"A roleplaying game based on Half-Life™ 2."
+	"version"		"1.1"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

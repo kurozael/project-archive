@@ -1,0 +1,8 @@
+{
+	"name": "Clockwork",
+	"author": "Cloud Sixteen",
+	"namespace": "Clockwork",
+	"description": "This is a package that provides backwards compatibility with Clockwork schemas.",
+	"website": "",
+	"version": "1.0.0"
+}

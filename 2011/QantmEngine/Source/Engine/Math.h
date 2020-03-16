@@ -1,0 +1,1 @@
+#ifndef MATH_H#define MATH_H#include <Engine/Math/Vector3.h>#include <Engine/Math/QAngle.h>#include <Engine/Math/Point.h>#include <Engine/Math/Plane.h>#include <Engine/Math/LineSeg.h>#endif

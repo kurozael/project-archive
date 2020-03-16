@@ -1,0 +1,7 @@
+-- Award --
+
+Award players with many different types of awards
+
+Commands:
+
+award <Player> <Award>

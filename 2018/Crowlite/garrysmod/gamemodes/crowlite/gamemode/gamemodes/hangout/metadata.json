@@ -1,0 +1,8 @@
+{
+	"name": "Hangout",
+	"author": "Cloud Sixteen",
+	"namespace": "Hangout",
+	"description": "This is a gamemode that is meant as a hub to hangout with friends, and make new ones.",
+	"website": "http://cloudsixteen.com/",
+	"version": "0.0.1"
+}

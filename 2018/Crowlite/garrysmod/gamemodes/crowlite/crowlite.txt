@@ -1,0 +1,19 @@
+"crowlite"
+{
+	"title"			"crowlite"
+	"author"		"Cloud Sixteen"
+	"description"	"A framework designed for various types of gamemodes."
+	"version"		"0.01"
+	"menusystem"	"1"
+	"settings"
+	{
+		1
+		{
+			"name"		"crow_gamemode"
+			"text"		"crow_gamemode"
+			"help"		"Which gamemode the crowlite framework will start the server in."
+			"type"		"Text"
+			"default"	"sandbox"
+		}
+	}
+}

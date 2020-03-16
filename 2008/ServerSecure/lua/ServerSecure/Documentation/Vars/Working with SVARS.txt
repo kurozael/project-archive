@@ -1,0 +1,8 @@
+SVARS allow you to create a new variable that is saved to a file
+
+// Functions:
+
+SVAR.New(Name, Value) -- Create a new SVAR, Value can be a table, a string or a number
+SVAR.Request(Name) -- Request a SVAR, returns the value
+SVAR.Update(Name, Value) -- Update an existing SVAR with a new value
+SVAR.Save() -- Save SVARS to the file

@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"		"models/MW2/SKIN_03/face_01"
+	"$bumpmap"		"models/MW2/SHARED/face_01_normal"
+
+ 	"$halflambert"		"1"
+
+	"$phong"			"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[0.04]"
+	"$phongexponent"		"10"
+	"$phongalbedotint"		"1"
+}

@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"		"models/MW2/SHARED/sleeves"
+	"$bumpmap"		"models/MW2/SHARED/sleeves_normal"
+
+ 	"$halflambert"		"1"
+
+	"$phong"			"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[0.04]"
+	"$phongexponent"		"10"
+	"$phongalbedotint"		"1"
+}

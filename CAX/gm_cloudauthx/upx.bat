@@ -1,0 +1,1 @@
+upx --best -o gmsv_cloudauthx_win32.dll release/gmsv_cloudauthx_win32.dll

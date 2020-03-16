@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/nukacola/nuka"
+	"$bumpmap"     "models/nukacola/glass_normal"
+	"$selfillum" 1
+}

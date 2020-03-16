@@ -1,0 +1,26 @@
+// Note: Plugins must have their own folder, and inside it a file called AutoRun.lua which is what is loaded!
+
+SS.Plugins:New(Folder Name)  Define new plugin.
+SS.Plugins:Finish()  Finish the above.
+SS.Plugins.Find(Name)  Used to get the plugin table from outside the plugin script, name is folder name!
+SS.Plugins.Exists(Name)  Check if a plugin exists.
+
+// Imagine this is Plugins/Random/AutoRun.lua 
+
+local Random = SS.Plugins:New("Random")
+
+function Random.Random(Args)
+	Random.String = "Hey"
+end
+
+function Random.Stuff(Player, Bool)
+	Random.Bool = Bool
+	
+	Random.Table = {"True", Player, "Yes", "Maybe"}
+end
+
+// (Meanwhile, outside of the plugin directory/file) 
+
+local Awesome = SS.Plugins.Find("Random")
+
+Awesome.Stuff(Player, true)

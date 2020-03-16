@@ -1,0 +1,15 @@
+--[[
+	© 2011 CloudSixteen.com do not share, re-distribute or modify
+	without permission of its author (kurozael@gmail.com).
+--]]
+
+local AUGMENT = {};
+
+AUGMENT = {};
+AUGMENT.name = "Cursed";
+AUGMENT.cost = 1600;
+AUGMENT.image = "aperture/augments/cursed";
+AUGMENT.karma = "good";
+AUGMENT.description = "Whenever you lose karma, the karma lost is doubled.\nThis is for characters that want to try and remain evil\nand want to quickly get down from having good karma.";
+
+AUG_CURSED = openAura.augment:Register(AUGMENT);

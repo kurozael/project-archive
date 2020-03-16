@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basealphaenvmapmask" "1	"
+	"$basetexture" "models/items/aurabox"
+	"$envmap" "env_cubemap"	
+	"$model" "1"
+}

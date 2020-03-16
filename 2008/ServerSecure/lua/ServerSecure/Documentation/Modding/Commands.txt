@@ -1,0 +1,19 @@
+// Creating chat commands 
+
+// Each chat command must be in a sub folder in the Commands folder 
+
+local Command = SS.Commands:New("Name")  Name being what you type to access it
+
+// Anything between SS.Commands:New("Name") and Command:Create(Args) will be added onto the table 
+
+function Command.Command(Player, Args)
+	 Called when player types command 
+end
+
+Command:Create(Command.Command (Function), {"basic"} (Flags that can use it), "Description", "<Syntax>", Arguements, "Seperator")
+
+// Creating console commands 
+
+SS.ConsoleCommand.Add(Command, Function, Restrict, Syntax, Args, Seperator)
+
+The last 4 arguments are optional!

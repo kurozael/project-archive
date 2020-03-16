@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"Gang Wars 2"
+	"info"			"Powerful gang warfare overthrows government control."
+	"version"		"2.0"
+	"author_url"	"http://www.kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

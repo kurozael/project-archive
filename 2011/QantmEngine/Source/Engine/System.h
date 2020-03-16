@@ -1,0 +1,1 @@
+#ifndef SYSTEM_H#define SYSTEM_H#include <Engine/System/Utility.h>#include <Engine/System/Singleton.h>#include <Engine/System/File.h>#include <Engine/System/Events.h>#include <Engine/System/Component.h>#include <Engine/System/Entity.h>#include <Engine/System/Asset.h>#endif

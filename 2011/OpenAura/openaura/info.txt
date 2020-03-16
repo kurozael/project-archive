@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"name"			"OpenAura"
+	"info"			"A roleplaying framework."
+	"version"		"1.12"
+	"author_url"	"http://kurozael.com"
+	"author_name"	"kurozael"
+	"author_email"	"kurozael@gmail.com"
+}

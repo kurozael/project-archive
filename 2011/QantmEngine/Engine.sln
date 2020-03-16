@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{C82AC553-D166-46DE-BEF9-1A80132D8112}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnimLib", "AnimLib\AnimLib.vcxproj", "{00722BC5-D2DB-4E92-B55E-F98029775AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C82AC553-D166-46DE-BEF9-1A80132D8112}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C82AC553-D166-46DE-BEF9-1A80132D8112}.Debug|Win32.Build.0 = Debug|Win32
+		{C82AC553-D166-46DE-BEF9-1A80132D8112}.Release|Win32.ActiveCfg = Release|Win32
+		{C82AC553-D166-46DE-BEF9-1A80132D8112}.Release|Win32.Build.0 = Release|Win32
+		{00722BC5-D2DB-4E92-B55E-F98029775AA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00722BC5-D2DB-4E92-B55E-F98029775AA0}.Debug|Win32.Build.0 = Debug|Win32
+		{00722BC5-D2DB-4E92-B55E-F98029775AA0}.Release|Win32.ActiveCfg = Release|Win32
+		{00722BC5-D2DB-4E92-B55E-F98029775AA0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

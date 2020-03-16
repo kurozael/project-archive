@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/player/ncrs/helmet_d"
+	"$surfaceprop" "flesh"
+
+}

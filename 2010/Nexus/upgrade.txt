@@ -1,0 +1,7 @@
+[Upgrading a copy of nexus]
+(If you are upgrading from 2.1 to 3.0, follow install.txt)
+
+o Delete the data folder from this archive so that you do not overwrite your existing MySQL configuration.
+o Extract the files in this archive to just outside of your garrysmod/ directory and overwrite any existing files.
+
+*** Thank you for purchasing or using a product from Studio Sixteen. ***

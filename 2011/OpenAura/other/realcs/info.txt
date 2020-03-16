@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"author_email"		""
+	"author_name"		"cheesylard"
+	"author_url"		""
+	"override"			"0"
+	"version"			"1.0"
+	"up_date"			"10 December 2008"
+	"name"				"RealCS"
+	"info"				"Weapons made to replicate those on Counter-Strike: Source."
+}

@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"		"models/MW2/SKIN_03/ghillie"
+	"$bumpmap"		"models/MW2/SHARED/ghillie_normal"
+
+ 	"$halflambert"		"1"
+
+	"$alphatest"		"1"
+	"$nocull"			"1"
+}

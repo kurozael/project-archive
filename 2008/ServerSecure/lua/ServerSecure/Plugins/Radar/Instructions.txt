@@ -1,0 +1,7 @@
+-- Radar --
+
+Show a radar on the clientside of player positions
+
+Commands:
+
+radar <Name> (While looking at an object to add it to the radar with an ID)

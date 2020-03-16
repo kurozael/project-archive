@@ -1,0 +1,6 @@
+-- PurchaseWeapons --
+
+Goto Config.lua and you can add weapons you wish to be up for purchase there, the flags just mean that
+that people with them flags get it for free
+
+Some examples are already included!
